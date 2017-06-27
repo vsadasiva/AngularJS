@@ -1,0 +1,6 @@
+{
+  "name":"sadasiva",
+  "dependencies":{
+    "angular":"~1.6.0"
+  }
+}
